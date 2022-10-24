@@ -117,6 +117,10 @@
       "url": "img\/portfolio\/submarine.png"
     },
     {
+      "hash": "sha256-a\/bM+uFNsoDOzrUI+fpHTHgCbOkj8fdTo9v4yyZImc0=",
+      "url": "img\/real.jpg"
+    },
+    {
       "hash": "sha256-794padMutWaLeo9IhBVVyrKgeSw86KVRlUkI3rSQDTQ=",
       "url": "index.html"
     },
@@ -6045,7 +6049,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-+yxLJ+8eMu6i+EVVA0Y1uvPk0\/G+h6urDXD4to+maBE=",
+      "hash": "sha256-C812O46qdH693HA\/DZw5UsRQPtLQb4E2ixuByq7BGDo=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -6217,7 +6221,7 @@
       "url": "_framework\/System.Threading.dll"
     },
     {
-      "hash": "sha256-Oe+7piA0F2XXTyKs66ZIe3epUYxhZT5kTqrmtv98uYM=",
+      "hash": "sha256-5z1+qmZyszp9LLPYtKln3gM0VocM8ZXzRWyqRMVxHfk=",
       "url": "_framework\/TeacherLavenda.dll"
     },
     {
@@ -6249,5 +6253,5 @@
       "url": "_content\/DevExpress.Blazor.AnchorUtils\/anchor-utils.js"
     }
   ],
-  "version": "MaOlOEIY"
+  "version": "EPgDeyy5"
 };
