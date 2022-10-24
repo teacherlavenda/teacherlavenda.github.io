@@ -6045,7 +6045,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-+yxLJ+8eMu6i+EVVA0Y1uvPk0\/G+h6urDXD4to+maBE=",
+      "hash": "sha256-ZL2Fn3zXhBwwrNgcnTrzgMKeaooXD15QcU8AXLb\/uug=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -6249,5 +6249,5 @@
       "url": "_content\/DevExpress.Blazor.AnchorUtils\/anchor-utils.js"
     }
   ],
-  "version": "MaOlOEIY"
+  "version": "JY5gzdTA"
 };
