@@ -89,6 +89,10 @@
       "url": "icon_512.png"
     },
     {
+      "hash": "sha256-rEJUUFRXZPxrY30Ijp3doAKEkBcn2yMl2XhUp3lhjSA=",
+      "url": "img\/LavendaCV.pdf"
+    },
+    {
       "hash": "sha256-OLzY\/Fg0qnD1qJRYvTB30X+e7lOOs7rxjWWniN0PrEs=",
       "url": "img\/MyAvatar.png"
     },
@@ -423,6 +427,10 @@
     {
       "hash": "sha256-bBaxV7oW9IaxLzKuhTNY4nqV3xefiQm5icWOwTbWTYM=",
       "url": "vendor\/fontawesome-free\/less\/v4-shims.less"
+    },
+    {
+      "hash": "sha256-zypfnix5Ng40EL64nJfz\/SCF+\/CsuZjCRUaxPoa8PUA=",
+      "url": "vendor\/fontawesome-free\/LICENSE.txt"
     },
     {
       "hash": "sha256-RGlDptKeKmfzgAZPPocC+AEZbByc7S0M9Ln\/StN8XCc=",
@@ -6025,16 +6033,8 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-KtM3Wrooexmrt5NmqvZfWoDPtNIe6wZqLopR6ToqUPg=",
-      "url": "_framework\/dotnet.6.0.10.o9dsm6goaz.js"
-    },
-    {
       "hash": "sha256-MAD3ryDxIcf60DIJlI9AVB+F2QC4oWJU0p02C7K2LpU=",
       "url": "_framework\/dotnet.timezones.blat"
-    },
-    {
-      "hash": "sha256-rbp\/Kz57XpMKaVoap0YLS3sN1D7cPKdTFCpoCR2YrFg=",
-      "url": "_framework\/dotnet.wasm"
     },
     {
       "hash": "sha256-Zuq0dWAsBm6\/2lSOsz7+H9PvFaRn61KIXHMMwXDfvyE=",
@@ -6053,7 +6053,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-DBMJ9+btaIPVpg3NXAptamLEeZvCPx44Di3WxhLEtrE=",
+      "hash": "sha256-0uI6glaWjs7XOMrZd372TAIUGnyzuHxPNgKb+eUemZQ=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -6065,7 +6065,7 @@
       "url": "_framework\/Blazored.Toast.dll"
     },
     {
-      "hash": "sha256-9MIb6SQkj1LtRhacyvejcYKO0BjW62IJsAaaTISOxJc=",
+      "hash": "sha256-RTPW7T3eUUB\/polmLXSVR3mxKgagomdQ92iv98\/46ao=",
       "url": "_framework\/DevExpress.Blazor.AnchorUtils.dll"
     },
     {
@@ -6225,8 +6225,16 @@
       "url": "_framework\/System.Threading.dll"
     },
     {
-      "hash": "sha256-th1bwkk6lTWFQVE3UgDXhQF3O53umIxwDVwpDZ\/TizE=",
+      "hash": "sha256-xBOh\/XkSB2+ly+tnM545CAVbzZDdtxP0FCm77UdaBnc=",
       "url": "_framework\/TeacherLavenda.dll"
+    },
+    {
+      "hash": "sha256-SzMhGN\/aQq6jboVceBBIsgr8nRpmgQjcfuXjP+Sjt2k=",
+      "url": "_framework\/dotnet.6.0.10.0zq92m7jqg.js"
+    },
+    {
+      "hash": "sha256-yTORsotoxRxz8CZRaZYSKT6qFTVJsp0p5qz+t6ZghSY=",
+      "url": "_framework\/dotnet.wasm"
     },
     {
       "hash": "sha256-NRzGRdnlAxAGthP9SY4CJqDqVewUV+0ZXzfRxXher1I=",
@@ -6249,5 +6257,5 @@
       "url": "_content\/DevExpress.Blazor.AnchorUtils\/anchor-utils.js"
     }
   ],
-  "version": "P4W32doF"
+  "version": "E4o2Ytd5"
 };
