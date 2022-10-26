@@ -97,28 +97,28 @@
       "url": "img\/MyAvatar.png"
     },
     {
-      "hash": "sha256-qcmNTz6xW5\/uETQj2SEMA1V9TnxV0lj6FM75GqDiU5s=",
-      "url": "img\/portfolio\/cabin.png"
+      "hash": "sha256-a64Ifv7nnsyvybGlnTeT3FCkEcVMXP1oYv+\/3+1EpCI=",
+      "url": "img\/portfolio\/Celta.png"
     },
     {
-      "hash": "sha256-y5PrR+wS5brJ5\/fuxFhmODezKNzQmIdx0rPvmToksmM=",
-      "url": "img\/portfolio\/cake.png"
+      "hash": "sha256-\/3ldOYFvAOE\/zzvKb5OShLgyymrzmB0yBAfWSvqq1EM=",
+      "url": "img\/portfolio\/Dele.jpg"
     },
     {
-      "hash": "sha256-JMAcSQMqUhv4\/slRnB92Np9g6APLAkuAbz3qWxlNNMY=",
-      "url": "img\/portfolio\/circus.png"
+      "hash": "sha256-VLpv8oDFqW43wP9an\/wymEd04eEjbdvV6vG+dDR\/wrw=",
+      "url": "img\/portfolio\/Languages.jpg"
     },
     {
-      "hash": "sha256-2yam6TCLW7IfSy6\/mVnwtb\/i2\/\/Ov0wVNAmYPSU6DkI=",
-      "url": "img\/portfolio\/game.png"
+      "hash": "sha256-DG4hLMl0gAWzosU18jqb+8X+LZZBowL\/1UDENDDOL10=",
+      "url": "img\/portfolio\/Skills.png"
     },
     {
-      "hash": "sha256-uYLFOlG7dMg24bK93z9+Ym6i92F36sCoDmtu3236hcY=",
-      "url": "img\/portfolio\/safe.png"
+      "hash": "sha256-LRCcLAexPeJCZAs8hAJ6qQKkz82tb8OOADmPVCAfKnU=",
+      "url": "img\/portfolio\/SocialWork.jpg"
     },
     {
-      "hash": "sha256-F\/vxEIcDBpNRjY2I1hD+bL4C7jvwoL5OqRTkckm4dy8=",
-      "url": "img\/portfolio\/submarine.png"
+      "hash": "sha256-UIIu0dqvQL01NGKH+Vgm70EICE5vhErkQU1jCcdirt0=",
+      "url": "img\/portfolio\/Teaching.png"
     },
     {
       "hash": "sha256-a\/bM+uFNsoDOzrUI+fpHTHgCbOkj8fdTo9v4yyZImc0=",
@@ -6053,7 +6053,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-QHvL5btF4\/w0xepFE+wAjLHhTq0hzp6cvmkAAMOWreg=",
+      "hash": "sha256-z+mrRUJlbal\/J8QtochqE7v+RBLwoITKszfrwBrmG\/I=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -6069,7 +6069,7 @@
       "url": "_framework\/DevExpress.Blazor.AnchorUtils.dll"
     },
     {
-      "hash": "sha256-PXTFhex8IzO8XYwR9OOlf6uIPsJSdvjYDdJoFq66WF8=",
+      "hash": "sha256-dYL9jBXHpqBKkV8Om0OoacGQLKMJyTttAug26JnVbNk=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
@@ -6225,7 +6225,7 @@
       "url": "_framework\/System.Threading.dll"
     },
     {
-      "hash": "sha256-nLVroDorwYC\/3zm0r9YS5UkJpIBhi\/0j+XVcjCOo0jo=",
+      "hash": "sha256-cLxwM5hh6CXE8jVdj11avEEQur3YxDB3AsBcTn37rcI=",
       "url": "_framework\/TeacherLavenda.dll"
     },
     {
@@ -6257,5 +6257,5 @@
       "url": "_content\/DevExpress.Blazor.AnchorUtils\/anchor-utils.js"
     }
   ],
-  "version": "CW7GIZi5"
+  "version": "xRbfxHXB"
 };
