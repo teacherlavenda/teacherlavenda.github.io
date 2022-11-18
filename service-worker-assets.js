@@ -101,28 +101,28 @@
       "url": "img\/MyAvatar.png"
     },
     {
-      "hash": "sha256-qcmNTz6xW5\/uETQj2SEMA1V9TnxV0lj6FM75GqDiU5s=",
-      "url": "img\/portfolio\/cabin.png"
+      "hash": "sha256-a64Ifv7nnsyvybGlnTeT3FCkEcVMXP1oYv+\/3+1EpCI=",
+      "url": "img\/portfolio\/Celta.png"
     },
     {
-      "hash": "sha256-y5PrR+wS5brJ5\/fuxFhmODezKNzQmIdx0rPvmToksmM=",
-      "url": "img\/portfolio\/cake.png"
+      "hash": "sha256-\/3ldOYFvAOE\/zzvKb5OShLgyymrzmB0yBAfWSvqq1EM=",
+      "url": "img\/portfolio\/Dele.jpg"
     },
     {
-      "hash": "sha256-JMAcSQMqUhv4\/slRnB92Np9g6APLAkuAbz3qWxlNNMY=",
-      "url": "img\/portfolio\/circus.png"
+      "hash": "sha256-VLpv8oDFqW43wP9an\/wymEd04eEjbdvV6vG+dDR\/wrw=",
+      "url": "img\/portfolio\/Languages.jpg"
     },
     {
-      "hash": "sha256-2yam6TCLW7IfSy6\/mVnwtb\/i2\/\/Ov0wVNAmYPSU6DkI=",
-      "url": "img\/portfolio\/game.png"
+      "hash": "sha256-DG4hLMl0gAWzosU18jqb+8X+LZZBowL\/1UDENDDOL10=",
+      "url": "img\/portfolio\/Skills.png"
     },
     {
-      "hash": "sha256-uYLFOlG7dMg24bK93z9+Ym6i92F36sCoDmtu3236hcY=",
-      "url": "img\/portfolio\/safe.png"
+      "hash": "sha256-LRCcLAexPeJCZAs8hAJ6qQKkz82tb8OOADmPVCAfKnU=",
+      "url": "img\/portfolio\/SocialWork.jpg"
     },
     {
-      "hash": "sha256-F\/vxEIcDBpNRjY2I1hD+bL4C7jvwoL5OqRTkckm4dy8=",
-      "url": "img\/portfolio\/submarine.png"
+      "hash": "sha256-UIIu0dqvQL01NGKH+Vgm70EICE5vhErkQU1jCcdirt0=",
+      "url": "img\/portfolio\/Teaching.png"
     },
     {
       "hash": "sha256-794padMutWaLeo9IhBVVyrKgeSw86KVRlUkI3rSQDTQ=",
@@ -6061,11 +6061,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-<<<<<<< HEAD
       "hash": "sha256-nE5LnqaB6KELfKWj\/XA2NvCGtKItUK7F74YFruDGpC8=",
-=======
-      "hash": "sha256-QHvL5btF4\/w0xepFE+wAjLHhTq0hzp6cvmkAAMOWreg=",
->>>>>>> parent of b72c206 (Se completa el portfolio)
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -6081,11 +6077,7 @@
       "url": "_framework\/DevExpress.Blazor.AnchorUtils.dll"
     },
     {
-<<<<<<< HEAD
       "hash": "sha256-tWBj30bljxYnfQabIv4+TP2zGISflSXAl0PlinPeTAc=",
-=======
-      "hash": "sha256-PXTFhex8IzO8XYwR9OOlf6uIPsJSdvjYDdJoFq66WF8=",
->>>>>>> parent of b72c206 (Se completa el portfolio)
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
@@ -6241,11 +6233,7 @@
       "url": "_framework\/System.Threading.dll"
     },
     {
-<<<<<<< HEAD
       "hash": "sha256-F6RYmm\/TTk0eg501p4zw3o\/yhC7GhHtInRIQ2XUfJto=",
-=======
-      "hash": "sha256-nLVroDorwYC\/3zm0r9YS5UkJpIBhi\/0j+XVcjCOo0jo=",
->>>>>>> parent of b72c206 (Se completa el portfolio)
       "url": "_framework\/TeacherLavenda.dll"
     },
     {
@@ -6269,9 +6257,5 @@
       "url": "_content\/DevExpress.Blazor.AnchorUtils\/anchor-utils.js"
     }
   ],
-<<<<<<< HEAD
   "version": "XfUHr7JL"
-=======
-  "version": "CW7GIZi5"
->>>>>>> parent of b72c206 (Se completa el portfolio)
 };
