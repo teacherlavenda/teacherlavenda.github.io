@@ -46,8 +46,4 @@ async function onFetch(event) {
 
     return cachedResponse || fetch(event.request);
 }
-<<<<<<< HEAD
-/* Manifest version: XfUHr7JL */
-=======
 /* Manifest version: CW7GIZi5 */
->>>>>>> parent of b72c206 (Se completa el portfolio)
