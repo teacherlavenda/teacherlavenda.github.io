@@ -93,7 +93,7 @@
       "url": "img\/Lavenda.png"
     },
     {
-      "hash": "sha256-E4nzTjGw7\/Rm8rJ6C6KFax9rxL8898gcLnf\/96CKSg0=",
+      "hash": "sha256-A3tqrA\/0cSHK36Q8OYtxC22zylVaYo\/wXvdsfFVE4Dk=",
       "url": "img\/LavendaCV.pdf"
     },
     {
@@ -6061,7 +6061,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-TzFSw3HUilJN4pYzxzW+T3xOfWanH\/ybIiYNCWKtO24=",
+      "hash": "sha256-G+7EPqB4c5+IYB0GBWuuLLcfCM9KC\/XuAwdZF2GtzOQ=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -6233,7 +6233,7 @@
       "url": "_framework\/System.Threading.dll"
     },
     {
-      "hash": "sha256-g7EA81Ai+p52kkJamEiyIfA3RC0+1OFDZUnuPY820mQ=",
+      "hash": "sha256-kvphBzDyxvt+hR8anU0YjKSp8Vn8sYyFVVkfgk6kbeM=",
       "url": "_framework\/TeacherLavenda.dll"
     },
     {
@@ -6257,5 +6257,5 @@
       "url": "_content\/DevExpress.Blazor.AnchorUtils\/anchor-utils.js"
     }
   ],
-  "version": "X7SrueF4"
+  "version": "PjjwVx+N"
 };
