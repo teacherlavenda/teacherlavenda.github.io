@@ -9,7 +9,7 @@
     "assembly": {
       "Blazored.Modal.dll": "sha256-Sr30UiM7JErBe8hojY6HAgaOOgfQE5zHijI0uVypmkM=",
       "Blazored.Toast.dll": "sha256-6cGnZ9WDP6hzM+ZRdvG+94hYjOke+bTjbJ5Xyawsp0M=",
-      "DevExpress.Blazor.AnchorUtils.dll": "sha256-mDZYyUd00zFp\/sHLjnWyn0s3aDH500nsOe4QJaaX52A=",
+      "DevExpress.Blazor.AnchorUtils.dll": "sha256-0lxEyp4\/Ce2XPz1wbAkPW6EWByNC38avFx8jQliMovA=",
       "Microsoft.AspNetCore.Components.dll": "sha256-7lsRuEiFm1k8tG5Uw0+akl5gc6RKb7M4oAQd1j\/ZP2c=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-8xSdz\/G\/WO+9gUlQIpFHHXu4MV1qXQyF611YgJaJ\/JM=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-oU9RpffTE1Uv2sIgavLEi\/oA9INlrSPiSGZGnwluHus=",
@@ -49,7 +49,7 @@
       "System.Text.Encodings.Web.dll": "sha256-JDe27SsTd9p8OmdFbC7t8CMXSKD0R1jIr9VQ7JrgicI=",
       "System.Text.Json.dll": "sha256-7W\/ONSb+AV4P9wzynFnhih+j2zt7WKhuk9Hk2x4l0k4=",
       "System.Threading.dll": "sha256-mpIyr0SQjmnSLJx7EOQRfqPP1c7SZuORCGypwAbSFKE=",
-      "TeacherLavenda.dll": "sha256-kvphBzDyxvt+hR8anU0YjKSp8Vn8sYyFVVkfgk6kbeM="
+      "TeacherLavenda.dll": "sha256-TvgmVrVihaZEXGQVXIityAJofP0JBNUUSIk5KBbEA4I="
     },
     "extensions": null,
     "lazyAssembly": null,
