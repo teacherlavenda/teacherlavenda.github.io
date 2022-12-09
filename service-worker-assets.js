@@ -93,7 +93,7 @@
       "url": "img\/Lavenda.png"
     },
     {
-      "hash": "sha256-LE9eoX40YpKxsOAazLFJ1hxcBQkm8+JL5wrK2+9zRMM=",
+      "hash": "sha256-14v4ri6IqI3BKGSuWi7K1GZCQR2je5hN6eAX26Duilk=",
       "url": "img\/LavendaCV.pdf"
     },
     {
@@ -6257,5 +6257,5 @@
       "url": "_content\/DevExpress.Blazor.AnchorUtils\/anchor-utils.js"
     }
   ],
-  "version": "Q8Hy5Tj8"
+  "version": "0V72mZJW"
 };
