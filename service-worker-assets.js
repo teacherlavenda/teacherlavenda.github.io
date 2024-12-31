@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "OGpLHIwq",
+  "version": "dWRhHLEk",
   "assets": [
     {
       "hash": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=",
@@ -198,11 +198,11 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-h2/qXIZpHyy4qsbESBBdRwwKooeUUHicdE7qnat0J7U=",
+      "hash": "sha256-AhH74AqCntjf5QQ6+T77wsX5F/l6dDiAj0qlWL6sSjA=",
       "url": "_framework/TeacherLavenda.wasm"
     },
     {
-      "hash": "sha256-+TM0k8X62oK0B3SYNrMustZxwKui+i8rb7yInnqg8IM=",
+      "hash": "sha256-mXsXKEF5s3dl9+sJRTFFpPeuCuRVch7Qc+ua5Tm4wPc=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -322,12 +322,12 @@ self.assetsManifest = {
       "url": "img/Lavenda.png"
     },
     {
-      "hash": "sha256-NvDakbLYyUHSanKVwadAx0O6d78FDvTzCK3ja2ZrLVQ=",
-      "url": "img/LavendaCV.pdf"
-    },
-    {
       "hash": "sha256-OLzY/Fg0qnD1qJRYvTB30X+e7lOOs7rxjWWniN0PrEs=",
       "url": "img/MyAvatar.png"
+    },
+    {
+      "hash": "sha256-07h2gN5tmcAISHiSACHpXxKj0gEPXhiJw9VrJQLvaD0=",
+      "url": "img/TeacherLavendaCV.pdf"
     },
     {
       "hash": "sha256-a64Ifv7nnsyvybGlnTeT3FCkEcVMXP1oYv+/3+1EpCI=",

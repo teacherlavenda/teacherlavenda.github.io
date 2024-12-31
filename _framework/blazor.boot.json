@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TeacherLavenda",
   "resources": {
-    "hash": "sha256-hJiI7Pnmv0q3to4lhtUDBW5yPzHoxk6+rlYbcpTATFA=",
+    "hash": "sha256-AkOGetYirNj9vszv7fP14PkVkrFU4I7eeed6OEAhHrI=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-VdKq87/z5NIxZKmuM+fv38XF+RcEb/bg3jVBwQSfwP4="
     },
@@ -61,7 +61,7 @@
       "System.Text.RegularExpressions.wasm": "sha256-nVUUELfQpDbvXJuDsALLjXoiPufnssYHW233wu4NF9w=",
       "System.Threading.wasm": "sha256-MNqp/FezvTrjSPHHDSLgnUDkIFRy7VjJNQY0U0WrnE8=",
       "System.wasm": "sha256-rJDiJLn9vFaPuc+koNsD2sHOPKsWg6PhywVlVUHLN/A=",
-      "TeacherLavenda.wasm": "sha256-h2/qXIZpHyy4qsbESBBdRwwKooeUUHicdE7qnat0J7U="
+      "TeacherLavenda.wasm": "sha256-AhH74AqCntjf5QQ6+T77wsX5F/l6dDiAj0qlWL6sSjA="
     }
   },
   "debugLevel": 0,
